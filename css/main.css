@@ -1696,7 +1696,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d9f5a2;
+  background: #fff638;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2872,4 +2872,7 @@ pre .javascript .function {
 }
 .post-comments-count a::before {
   content: "评论";
+}
+body {
+  background: url("/images/background.jpg");
 }
