@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[git学习小结]]></title>
     <url>%2F2017%2F10%2F08%2Fgit%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%93%2F</url>
-    <content type="text"><![CDATA[&amp;nbsp &amp;nbsp Git是目前世界上最先进的分布式版本控制系统，版本控制系统，用最通俗的一个例子来说就是每次编辑与修改就会产生一个新版本，怎么能做到记录每次编辑与改动，这就是版本控制系统的作用。版本控制系统分为集中式和分布式]]></content>
+    <content type="text"><![CDATA[&amp;nbsp&amp;nbspGit是目前世界上最先进的分布式版本控制系统，版本控制系统，用最通俗的一个例子来说就是每次编辑与修改就会产生一个新版本，怎么能做到记录每次编辑与改动，这就是版本控制系统的作用。版本控制系统分为集中式和分布式]]></content>
       <categories>
         <category>-git</category>
       </categories>
